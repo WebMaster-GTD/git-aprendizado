@@ -4,3 +4,4 @@
 - Aprender git diff
 - Aprender git add
 - Aprender git commit
+- Testar git stash
